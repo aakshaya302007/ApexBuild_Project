@@ -1,23 +1,16 @@
-/* =========================================================
-   APEXBUILD CONSTRUCTION — SHARED STYLESHEET
-   Design system: dark premium hero, floating glass nav,
-   warm amber accent, clean geometric sans typography.
-   ========================================================= */
-
-/* ---------- Design Tokens ---------- */
 :root {
   /* Colors */
-  --color-ink: #14161a;          /* near-black, hero bg / dark sections */
-  --color-ink-soft: #1f2227;     /* slightly lighter dark panel */
-  --color-paper: #f7f5f1;        /* warm off-white background */
-  --color-paper-dim: #ecE8e0;    /* warm grey panel on paper */
-  --color-text: #23262b;         /* body text on light bg */
-  --color-text-soft: #5b6068;    /* secondary text on light bg */
-  --color-text-on-dark: #f7f5f1; /* body text on dark bg */
+  --color-ink: #14161a;          
+  --color-ink-soft: #1f2227;     
+  --color-paper: #f7f5f1;        
+  --color-paper-dim: #ecE8e0;    
+  --color-text: #23262b;         
+  --color-text-soft: #5b6068;    
+  --color-text-on-dark: #f7f5f1; 
   --color-text-on-dark-soft: #c7c4bd;
-  --color-amber: #d98e2c;        /* primary accent — warm construction amber */
+  --color-amber: #d98e2c;        
   --color-amber-dark: #b8741c;
-  --color-rust: #a8492c;         /* secondary accent for small highlights */
+  --color-rust: #a8492c;         
   --color-line: rgba(20, 22, 26, 0.1);
   --color-line-on-dark: rgba(247, 245, 241, 0.16);
 

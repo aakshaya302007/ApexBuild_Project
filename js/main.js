@@ -1,9 +1,3 @@
-/* =========================================================
-   APEXBUILD CONSTRUCTION — SHARED SCRIPT
-   Handles: mobile nav, scroll reveal, sticky nav state,
-   FAQ accordion, contact form validation, back-to-top.
-   ========================================================= */
-
 document.addEventListener('DOMContentLoaded', function () {
   initMobileNav();
   initScrollReveal();
